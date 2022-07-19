@@ -1,0 +1,76 @@
+.uli {
+    display: flex;
+        height: 30px;
+    
+}
+.logo2 {
+    /*align-content: flex-end;*/
+}
+.header {
+    display: flex;
+    width: 100%;
+    margin-top: 17px;
+margin-bottom: 13px;
+}
+.navigation {
+    display: flex;
+    width: 100%;
+}
+.connect { 
+   border: 6px solid #4468E2;
+  border-radius: 15px 15px;
+  background-color: #4468E2;
+  color: #FFFFFF;
+  right: 0px;
+}
+.li-list1 {
+ margin-left: 190px; 
+ margin-right: 40px;  
+}
+li-list2 {
+    margin-left: 40px;
+}
+
+li-list3 {
+    margin-left: 40px;
+}
+li-list4 {
+    
+}
+li-list5 {
+   
+}
+/* beach div */
+.div1 {
+    max-width: 551px;
+    width: 100%;
+    height: 170px;
+   
+    
+}
+.text1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+}
+.text2 {
+    font-size: 22px;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    width: 522px;
+
+}
+.backgimage {
+background-image: url("../images/beach.jpg");
+ width: 1780px;
+ height: 608px;
+ position: relative;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
